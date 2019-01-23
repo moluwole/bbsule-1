@@ -1,8 +1,5 @@
 @extends('layouts.parent')
 @section('content')
-
-    <!-- <script src="/js/masonry.pkgd.min.js"></script> -->
-
 <link rel="stylesheet" href="/css/lightbox.css"/>
 	<div id="content" class="site-content">
 
@@ -59,8 +56,8 @@
                     <div class="row">
                       @foreach(explode(',', $gallery->image_path) as $pix)
                         @if($pix !== '')
-                          <div class="col-md-3" style="margin-bottom: 15px;">
-						  <a class="example-image-link" href="/picture/{{$pix}}" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" style="width:20vw;height: 20vw;border-radius: 9px;" src="/picture/{{$pix}}" alt=""/></a>
+                          <div class="col-md-3">
+						  <a class="example-image-link" href="/picture/{{$pix}}" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="/picture/{{$pix}}" alt=""/></a>
 							</div>
                         @endif
                       @endforeach

@@ -23,19 +23,12 @@
         </li>
 
         </li>
-        <li>
+        <li >
             <a href="/dashboard/picture">
                 <i class="fa fa-plus-circle"></i>
                 <span>Add Pictures</span>
           </a>
         </li>
-        <li>
-            <a href="/dashboard/testimony">
-                <i class="fa fa-comment"></i>
-                <span>Testimony</span>
-          </a>
-        </li>
-        
          <li class="">
             <a href="/dashboard/gallery">
                 <i class="fa fa-camera"></i>
