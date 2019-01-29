@@ -159,7 +159,7 @@ button {
 																				<img width="370" height="250" style="position: relative;bottom: 130px;" src="/client/fashion.jpeg" class="attachment-full size-full" alt="" srcset="/client/fashion.jpeg" sizes="(max-width: 370px) 100vw, 370px" />
 																				</div>
 																				<div class="back" style="border: 1px solid #ccc;text-align: center;background-color: #ccc;padding: 20px;">
-																					<h3>Alterations</h3>
+																					<h3>Bespoke evening gowns</h3>
 																					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 																					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 																					</p>
@@ -199,7 +199,7 @@ button {
 																				<img width="370" height="250" src="/images/banners/banner-2.jpg" class="attachment-full size-full" alt="" srcset="/images/banners/banner-2.jpg 370w, /images/banners/banner-2.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
 																			</div>
 																				<div class="back" style="border: 1px solid #ccc;text-align: center;background-color: #ccc;padding: 20px;">
-																					<h3>Alterations</h3>
+																					<h3>Custom made garments</h3>
 																					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 																					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 																					</p>
@@ -233,7 +233,7 @@ button {
 																				<img width="370" height="250" src="/images/banners/banner-3.jpg" class="attachment-full size-full" alt="" srcset="/images/banners/banner-3.jpg 370w, /images/banners/banner-3.jpg 300w" sizes="(max-width: 370px) 100vw, 370px" />
 																			</div>
 																				<div class="back" style="border: 1px solid #ccc;text-align: center;background-color: #ccc;padding: 20px;">
-																					<h3>Alterations</h3>
+																					<h3>Pattern cutting&Sample making</h3>
 																					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 																					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 																					</p>
